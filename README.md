@@ -1,4 +1,4 @@
-<img src="./assets/hero.svg" width="100%" alt="Santi. Full-stack product engineer in Barcelona. I take products from idea to release and keep running them afterwards. TypeScript, React, Node.js, Cloudflare Workers, Convex, PostgreSQL. Agents, evals and MCP servers." />
+<img src="./assets/hero.svg" width="100%" alt="I take products from idea to release and keep running them afterwards. Santi, full-stack product engineer in Barcelona, 8+ years, the last three with LLMs inside. With teams and clients: AIFindr (The Agile Monkeys), Oasis (Growth Capital), Digital Twins (Stradem). My own products: Transcribo, Eccos, Reccado." />
 
 For the last three years most of what I've built has had LLMs inside: agents in production, the evals to know whether they work, and MCP servers so agents can use my own products.
 
