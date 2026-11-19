@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 366" width="880" height="366" role="img" aria-label="SANTI in pixel letters above a terminal that cycles through whoami, ls work and cat stack.txt">
-<style>:root{--bg:#ffffff;--panel:#f6f8fa;--border:#d0d7de;--fg:#1f2328;--muted:#59636e;--accent:#1a7f37;--soft:#dafbe1;}@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--fg:#e6edf3;--muted:#8d96a0;--accent:#3fb950;--soft:#12261e;}}
+<style>:root{--bg:#ffffff;--panel:#f6f8fa;--border:#d0d7de;--fg:#1f2328;--muted:#59636e;--accent:#0969da;--soft:#ddf4ff;}@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--fg:#e6edf3;--muted:#8d96a0;--accent:#4c9aff;--soft:#0f2238;}}
 text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:14px}
 .fg{fill:var(--fg)}.mu{fill:var(--muted)}.ac{fill:var(--accent)}
 .px{fill:var(--fg);opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .3s cubic-bezier(.2,1.5,.4,1) forwards,shim 3.2s ease-in-out infinite}

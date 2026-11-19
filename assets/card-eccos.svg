@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 284 200" width="284" height="200" role="img">
-<style>:root{--bg:#ffffff;--panel:#f6f8fa;--border:#d0d7de;--fg:#1f2328;--muted:#59636e;--accent:#1a7f37;--soft:#dafbe1;}@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--fg:#e6edf3;--muted:#8d96a0;--accent:#3fb950;--soft:#12261e;}}
+<style>:root{--bg:#ffffff;--panel:#f6f8fa;--border:#d0d7de;--fg:#1f2328;--muted:#59636e;--accent:#0969da;--soft:#ddf4ff;}@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--fg:#e6edf3;--muted:#8d96a0;--accent:#4c9aff;--soft:#0f2238;}}
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
 .t{fill:var(--fg);font-size:17px;font-weight:600}
 .d{fill:var(--muted);font-size:12.5px}
