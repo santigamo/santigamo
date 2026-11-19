@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 284 200" width="284" height="200" role="img">
-<style>:root{--bg:#ffffff;--panel:#f6f8fa;--border:#d0d7de;--fg:#1f2328;--muted:#59636e;--accent:#e5532d;--soft:#fde3da;}@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--fg:#e6edf3;--muted:#8d96a0;--accent:#ff7b54;--soft:#3a1f17;}}
+<style>:root{--bg:#ffffff;--panel:#f6f8fa;--border:#d0d7de;--fg:#1f2328;--muted:#59636e;--accent:#1a7f37;--soft:#dafbe1;}@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--fg:#e6edf3;--muted:#8d96a0;--accent:#3fb950;--soft:#12261e;}}
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
 .t{fill:var(--fg);font-size:17px;font-weight:600}
 .d{fill:var(--muted);font-size:12.5px}
@@ -7,9 +7,9 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helveti
 .ac{fill:var(--accent)}.so{fill:var(--soft)}.st{fill:none;stroke:var(--accent);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 .bd{fill:var(--border)}
 
-.w{transform-box:fill-box;transform-origin:center;animation:wav 1.3s ease-in-out infinite alternate}
+.w{transform-box:fill-box;transform-origin:center;animation:wav .8s ease-in-out infinite alternate}
 @keyframes wav{from{transform:scaleY(.25)}to{transform:scaleY(1)}}
-.l{transform-box:fill-box;transform-origin:left center;animation:wr 4.2s ease-out infinite}
+.l{transform-box:fill-box;transform-origin:left center;animation:wr 2.8s ease-out infinite}
 @keyframes wr{0%{transform:scaleX(0)}30%,88%{transform:scaleX(1)}96%,100%{transform:scaleX(1);opacity:0}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}</style>
 <rect x=".5" y=".5" width="283" height="199" rx="12" fill="var(--bg)" stroke="var(--border)"/>
