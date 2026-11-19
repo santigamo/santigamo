@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 284 200" width="284" height="200" role="img">
+<style>:root{--bg:#ffffff;--panel:#f6f8fa;--border:#d0d7de;--fg:#1f2328;--muted:#59636e;--accent:#e5532d;--soft:#fde3da;}@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--fg:#e6edf3;--muted:#8d96a0;--accent:#ff7b54;--soft:#3a1f17;}}
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.t{fill:var(--fg);font-size:17px;font-weight:600}
+.d{fill:var(--muted);font-size:12.5px}
+.k{fill:var(--accent);font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:11px}
+.ac{fill:var(--accent)}.so{fill:var(--soft)}.st{fill:none;stroke:var(--accent);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.bd{fill:var(--border)}
+
+.pill{animation:lit 4.8s ease-in-out infinite}
+.pl{fill:var(--muted);font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:11px;animation:litt 4.8s ease-in-out infinite}
+@keyframes lit{0%,8%,34%,100%{fill:var(--panel);stroke:var(--border)}14%,28%{fill:var(--soft);stroke:var(--accent)}}
+@keyframes litt{0%,8%,34%,100%{fill:var(--muted)}14%,28%{fill:var(--accent)}}
+.dot{animation:fly 4.8s ease-in-out infinite}
+@keyframes fly{0%,6%{transform:translate(0,0);opacity:0}12%,30%{transform:translate(0,0);opacity:1}36%{transform:translate(0,0);opacity:0}100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}</style>
+<rect x=".5" y=".5" width="283" height="199" rx="12" fill="var(--bg)" stroke="var(--border)"/>
+<rect x="24" y="28" width="66" height="46" rx="6" class="st" style="fill:var(--soft)"/>
+<path d="M26 32l31 23 31-23" class="st"/>
+<rect class="pill" x="112" y="38" width="48" height="26" rx="13" stroke-width="1.5" style="fill:var(--panel);stroke:var(--border);animation-delay:0.0s"/>
+<text class="pl" x="136" y="55" text-anchor="middle" style="animation-delay:0.0s">read</text>
+<rect class="pill" x="166" y="38" width="48" height="26" rx="13" stroke-width="1.5" style="fill:var(--panel);stroke:var(--border);animation-delay:1.4s"/>
+<text class="pl" x="190" y="55" text-anchor="middle" style="animation-delay:1.4s">search</text>
+<rect class="pill" x="220" y="38" width="48" height="26" rx="13" stroke-width="1.5" style="fill:var(--panel);stroke:var(--border);animation-delay:2.8s"/>
+<text class="pl" x="244" y="55" text-anchor="middle" style="animation-delay:2.8s">draft</text>
+<text x="24" y="132" class="t">Reccado</text>
+<text x="24" y="153" class="d">Self-hosted email on Cloudflare that</text><text x="24" y="170" class="d">AI agents can read, search and draft.</text>
+<text x="24" y="188" class="k">open source · MCP server</text>
+</svg>
